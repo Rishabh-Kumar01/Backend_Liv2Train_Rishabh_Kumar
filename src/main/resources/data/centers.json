@@ -1,0 +1,254 @@
+[
+  {
+    "centerName": "Tech Innovators Hub",
+    "centerCode": "TIH123456789",
+    "address": {
+      "detailedAddress": "123 Innovation Avenue, Tech Park",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "studentCapacity": 500,
+    "coursesOffered": [
+      "Data Science",
+      "Artificial Intelligence",
+      "Cloud Computing"
+    ],
+    "contactEmail": "info@techinnovatorshub.com",
+    "contactPhone": "+919876543210"
+  },
+  {
+    "centerName": "Digital Skills Academy",
+    "centerCode": "DSA987654321",
+    "address": {
+      "detailedAddress": "456 Cyber Lane, Knowledge City",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500081"
+    },
+    "studentCapacity": 350,
+    "coursesOffered": [
+      "Web Development",
+      "Mobile App Development",
+      "UX/UI Design"
+    ],
+    "contactEmail": "admissions@digitalskills.edu",
+    "contactPhone": "+918765432109"
+  },
+  {
+    "centerName": "BioTech Research Center",
+    "centerCode": "BRC246813579",
+    "address": {
+      "detailedAddress": "789 Genome Street, Life Sciences Park",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411008"
+    },
+    "studentCapacity": 200,
+    "coursesOffered": [
+      "Genetic Engineering",
+      "Bioinformatics",
+      "Molecular Biology"
+    ],
+    "contactEmail": "info@biotechresearch.org",
+    "contactPhone": "+917890123456"
+  },
+  {
+    "centerName": "Green Energy Institute",
+    "centerCode": "GEI135792468",
+    "address": {
+      "detailedAddress": "101 Solar Road, Eco Park",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600041"
+    },
+    "studentCapacity": 250,
+    "coursesOffered": [
+      "Solar Energy Technology",
+      "Wind Power Systems",
+      "Energy Efficient Building Design"
+    ],
+    "contactEmail": "admissions@greenenergy.edu",
+    "contactPhone": "+916789012345"
+  },
+  {
+    "centerName": "Cybersecurity Excellence Center",
+    "centerCode": "CEC024681357",
+    "address": {
+      "detailedAddress": "202 Firewall Avenue, Secure Zone",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "studentCapacity": 300,
+    "coursesOffered": [
+      "Network Security",
+      "Ethical Hacking",
+      "Digital Forensics"
+    ],
+    "contactEmail": "info@cybersecurityexcellence.com",
+    "contactPhone": "+915678901234"
+  },
+  {
+    "centerName": "Robotics Innovation Lab",
+    "centerCode": "RIL369258147",
+    "address": {
+      "detailedAddress": "303 Automation Street, Tech Hub",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110001"
+    },
+    "studentCapacity": 180,
+    "coursesOffered": [
+      "Robotic Process Automation",
+      "AI in Robotics",
+      "Industrial Robotics"
+    ],
+    "contactEmail": "contact@roboticsinnovation.in",
+    "contactPhone": "+914567890123"
+  },
+  {
+    "centerName": "Cloud Computing Institute",
+    "centerCode": "CCI753951486",
+    "address": {
+      "detailedAddress": "404 Virtual Lane, Cloud Park",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "700001"
+    },
+    "studentCapacity": 400,
+    "coursesOffered": [
+      "AWS Solutions Architecture",
+      "Google Cloud Platform",
+      "Microsoft Azure"
+    ],
+    "contactEmail": "info@cloudcomputinginstitute.org",
+    "contactPhone": "+913456789012"
+  },
+  {
+    "centerName": "Data Analytics Center",
+    "centerCode": "DAC951753852",
+    "address": {
+      "detailedAddress": "505 Insights Avenue, Data Park",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "pincode": "380001"
+    },
+    "studentCapacity": 280,
+    "coursesOffered": [
+      "Big Data Analytics",
+      "Business Intelligence",
+      "Data Visualization"
+    ],
+    "contactEmail": "admissions@dataanalytics.edu",
+    "contactPhone": "+912345678901"
+  },
+  {
+    "centerName": "IoT Solutions Hub",
+    "centerCode": "ISH159263748",
+    "address": {
+      "detailedAddress": "606 Connected Street, Smart City",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "pincode": "302001"
+    },
+    "studentCapacity": 220,
+    "coursesOffered": [
+      "IoT Architecture",
+      "Embedded Systems",
+      "Smart Home Technologies"
+    ],
+    "contactEmail": "info@iotsolutionshub.com",
+    "contactPhone": "+911234567890"
+  },
+  {
+    "centerName": "Blockchain Technology Center",
+    "centerCode": "BTC753159852",
+    "address": {
+      "detailedAddress": "707 Crypto Lane, Fintech Park",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "pincode": "201301"
+    },
+    "studentCapacity": 150,
+    "coursesOffered": [
+      "Blockchain Development",
+      "Cryptocurrency and Finance",
+      "Smart Contracts"
+    ],
+    "contactEmail": "contact@blockchaintechcenter.in",
+    "contactPhone": "+919012345678"
+  },
+  {
+    "centerName": "AR/VR Innovation Center",
+    "centerCode": "AVI147258369",
+    "address": {
+      "detailedAddress": "808 Virtual Reality Road, Digital Park",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "pincode": "751001"
+    },
+    "studentCapacity": 120,
+    "coursesOffered": [
+      "Augmented Reality Development",
+      "Virtual Reality Applications",
+      "3D Modeling and Animation"
+    ],
+    "contactEmail": "info@arvrinnovation.org",
+    "contactPhone": "+918901234567"
+  },
+  {
+    "centerName": "Quantum Computing Lab",
+    "centerCode": "QCL258369147",
+    "address": {
+      "detailedAddress": "909 Quantum Street, Research Park",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560003"
+    },
+    "studentCapacity": 80,
+    "coursesOffered": [
+      "Quantum Algorithms",
+      "Quantum Cryptography",
+      "Quantum Machine Learning"
+    ],
+    "contactEmail": "admissions@quantumlab.edu",
+    "contactPhone": "+917890123456"
+  },
+  {
+    "centerName": "FinTech Innovation Hub",
+    "centerCode": "FIH369147258",
+    "address": {
+      "detailedAddress": "1010 Blockchain Boulevard, Finance District",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400051"
+    },
+    "studentCapacity": 200,
+    "coursesOffered": [
+      "Financial Technology",
+      "Digital Banking",
+      "RegTech and Compliance"
+    ],
+    "contactEmail": "contact@fintechhub.com",
+    "contactPhone": "+916789012345"
+  },
+  {
+    "centerName": "Cybersecurity Training Institute",
+    "centerCode": "CTI147852369",
+    "address": {
+      "detailedAddress": "1111 Secure Street, Cyber Park",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "pincode": "122001"
+    },
+    "studentCapacity": 250,
+    "coursesOffered": [
+      "Network Security",
+      "Penetration Testing",
+      "Cyber Forensics"
+    ],
+    "contactEmail": "info@cybersecuritytraining.org",
+    "contactPhone": "+915678901234"
+  }
+]
