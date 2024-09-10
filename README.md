@@ -71,6 +71,8 @@ To modify the initial data:
 
 The seeder will automatically run on application startup if the database is empty.
 
+## API Documentation
+
 ### Swagger UI
 
 The API documentation is available via Swagger UI. After starting the application, you can access the Swagger UI at:
